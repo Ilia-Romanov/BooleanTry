@@ -1,0 +1,83 @@
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.scatolagenerale{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.scatolanav{
+  background-color: #08dc04;
+  height: 35px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.logo{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.logo-text{
+  text-align: center;
+  font-size: 26px;
+  color: #08dc04;
+  font-weight: bold;
+}
+
+
+.barra1{
+  height: 24px;
+  background-color: green;
+  width: 50%;
+  border-radius: 25px;
+}
+
+.barra2{
+  height: 24px;
+  background-color: orange;
+  width: 80%;
+  border-radius: 25px;
+}
+
+.barra3{
+  height: 24px;
+  background-color: red;
+  width: 25%;
+  border-radius: 25px;
+
+}
+
+.opz1{
+  color: white;
+}
+
+.mono1{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.mono2{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.mono3{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+button{
+  margin-top: 7px;
+}
